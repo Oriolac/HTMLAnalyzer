@@ -1,0 +1,45 @@
+File: .//fichers//SEMIC, Proveedor Global de Soluciones y Servicios IT_files.html
+Date: 2018/11/20 20:57:57
+List of Errors:
+Line 116: has more than 5 .js loaded.
+Line 117: has more than 5 .js loaded.
+Line 118: has more than 5 .js loaded.
+Line 119: has more than 5 .js loaded.
+Line 120: has more than 5 .js loaded.
+Line 121: has more than 5 .js loaded.
+Line 122: has more than 5 .js loaded.
+Line 123: has more than 5 .js loaded.
+Line: 606. More than one <h1>
+Line: 632. More than one <h1>
+Line: 654. More than one <h1>
+Line: 738. More than one <h1>
+File: 854. There's a TODO Comment.
+Line 918: 1
+Line 924: 1
+File: 926. There's a TODO Comment.
+Line 937: 1
+Line 939: has more than 5 .js loaded.
+Line 961: 1
+Line: 1031. Needs target="_blank"
+Line: 1032. Needs target="_blank"
+Line: 1033. Needs target="_blank"
+Line: 1034. Needs target="_blank"
+Line 1069: 1
+Line 1070: 1
+File: 1077. There's a TODO Comment.
+Line 1190: has more than 5 .js loaded.
+Line 1200: has more than 5 .js loaded.
+Line 1201: has more than 5 .js loaded.
+Line 1202: has more than 5 .js loaded.
+Line 1203: has more than 5 .js loaded.
+Line 1206: has more than 5 .js loaded.
+Line 1208: has more than 5 .js loaded.
+Line 1208: 1
+Line 1209: has more than 5 .js loaded.
+Line 1210: has more than 5 .js loaded.
+Line 1211: has more than 5 .js loaded.
+Line 1212: has more than 5 .js loaded.
+Line 1213: has more than 5 .js loaded.
+Line 1214: has more than 5 .js loaded.
+Line 1214: 2
+Line 0: Not found XML.
